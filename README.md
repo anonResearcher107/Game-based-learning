@@ -120,9 +120,8 @@ The SDT-coded notes serve to:
 - Provide transparency in the qualitative analysis process  
 - Demonstrate how observational evidence aligns with SDT constructs  
 - Support the interpretation of quantitative motivational findings  
-- Ensure methodological traceability between raw observations and reported conclusions  
+- Ensure methodological traceability between raw observations and reported conclusions
 
-This file enables readers to understand how qualitative data informed the theoretical interpretation 
 ---
 
 ## Reproducibility Statement
