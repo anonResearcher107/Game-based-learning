@@ -73,7 +73,7 @@ The notebook is fully executable and reproduces all reported statistical outputs
 
 ### DigComp Mapping Documentation
 
-**Files:** Corresponding PDF documents in this repository
+**Files:** Corresponding PDF documents for each game in this repository
 
 These files contain:
 
@@ -88,6 +88,41 @@ These materials allow full traceability between:
 - Assessment logic  
 - Competence framework alignment  
 
+---
+
+### SDT-Coded Trainer Notes
+
+**File:** `SDT-Coded_Trainers_Notes.pdf`
+
+This document contains the qualitative trainer observations systematically coded according to **Self-Determination Theory (SDT)**. The coding framework is structured around the three basic psychological needs:
+
+- **Autonomy (A)**  
+  - A1: Initiative and choice  
+  - A2: Reduced fear of errors  
+  - A3: Perceived relevance  
+
+- **Competence (C)**  
+  - C1: Initial low self-efficacy  
+  - C2: Skill acquisition  
+  - C3: Confidence gains  
+
+- **Relatedness (R)**  
+  - R1: Peer support  
+  - R2: Shared emotional experience  
+  - R3: Collaborative problem solving  
+
+The document provides a structured thematic analysis of participant behaviors and interactions observed during both INFINITY and DiGiUP gameplay sessions.
+
+#### Purpose
+
+The SDT-coded notes serve to:
+
+- Provide transparency in the qualitative analysis process  
+- Demonstrate how observational evidence aligns with SDT constructs  
+- Support the interpretation of quantitative motivational findings  
+- Ensure methodological traceability between raw observations and reported conclusions  
+
+This file enables readers to understand how qualitative data informed the theoretical interpretation 
 ---
 
 ## Reproducibility Statement
