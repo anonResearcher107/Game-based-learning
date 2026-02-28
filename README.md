@@ -123,6 +123,35 @@ The SDT-coded notes serve to:
 - Ensure methodological traceability between raw observations and reported conclusions
 
 ---
+### Pre–Post Statistical Analysis
+
+**File:** `PrePostAnalysis.ipynb`
+
+This Jupyter notebook contains the full statistical workflow used to analyse the pre–post proficiency differences between **INFINITY** and **DiGiUP** based on the DigComp competence levels.
+
+#### Purpose
+
+The notebook performs:
+
+- Data import from `Pre_Post_Performance.xlsx` (sheet: *Participant Scores*)
+- Conversion of ordinal proficiency labels (e.g., *Level 1–3*) into numeric format
+- Wilcoxon signed-rank tests for paired comparisons
+- Calculation of:
+  - Test statistic (W)
+  - Z values (normal approximation)
+  - Effect size (r)
+  - Descriptive statistics (median shifts, number improved/same/worse)
+- Export of summary results tables for reporting
+
+#### Why Wilcoxon?
+
+The Wilcoxon signed-rank test is used because:
+
+- DigComp proficiency levels are **ordinal**
+- The design is **paired** (same participants in both games)
+- Normality assumptions for parametric tests are not met
+
+---
 
 ## Reproducibility Statement
 
