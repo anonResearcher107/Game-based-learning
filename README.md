@@ -182,7 +182,7 @@ Researchers wishing to adapt the approach to other contexts (countries, institut
 
 ---
 
-### 8️⃣ DigComp Task-to-Proficiency Mapping Files
+### DigComp Task-to-Proficiency Mapping Files
 
 **Files:**  
 - `en level (1 to 3) Information.pdf`  
