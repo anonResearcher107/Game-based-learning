@@ -152,6 +152,68 @@ The Wilcoxon signed-rank test is used because:
 - Normality assumptions for parametric tests are not met
 
 ---
+### Technical Specifications and Gameplay Description
+
+**File:** `Technical Specifications and Gameplay description.docx`
+
+This document provides the full technical and procedural specification of the two game-based interventions developed and evaluated in the study: **INFINITY** (baseline-oriented game-based assessment) and **DiGiUP** (scenario-driven blended GBA–GBL game).
+
+#### Contents of the Document
+
+The file includes:
+
+- Detailed description of gameplay mechanics and structure  
+- Rules, turn-taking logic, and progression systems  
+- Description of scoring and assessment procedures
+- Required materials and implementation guidelines  
+- Explanation of how assessment and learning were integrated within gameplay  
+
+#### Purpose within the Repository
+
+This document ensures:
+
+- **Design transparency** — providing full visibility into how DigComp descriptors were operationalised into playable mechanics  
+- **Replicability** — enabling other researchers and educators to reproduce the intervention  
+- **Methodological traceability** — linking theoretical frameworks to concrete design decisions  
+- **Verification of assessment logic** — clarifying how proficiency levels were elicited and recorded  
+
+Together with the datasets, statistical notebooks, and coded qualitative materials, this document completes the full reproducibility package for the study.
+Researchers wishing to adapt the approach to other contexts (countries, institutions, age groups) can use this document as the primary design and implementation reference.
+
+---
+
+### 8️⃣ DigComp Task-to-Proficiency Mapping Files
+
+**Files:**  
+- `en level (1 to 3) Information.pdf`  
+- `en level (1 to 3) Problem solving.pdf`  
+- `en level (1 to 3) Security.pdf`  
+- `DiGiUP challenges by level.pdf`  
+- *(Total: 10 mapping files covering all tasks and challenges)*  
+
+#### Description
+
+These files provide the complete mapping of every INFINITY question and every DiGiUP challenge and digital task to the corresponding DigComp 2.2 competence area and proficiency level.
+
+Each document systematically lists:
+
+- The original question or task wording  
+- The targeted DigComp competence  
+- The assigned proficiency level (Foundation / Intermediate / Advanced)  
+
+#### Purpose
+
+The purpose of these files is to ensure:
+
+- **Full transparency** of the assessment logic  
+- **Traceability** between gameplay elements and the DigComp framework  
+- **Methodological validation** of proficiency level assignment  
+- **Reproducibility** of the competence evaluation process  
+
+These mapping documents demonstrate how high-level DigComp descriptors were operationalised into concrete, playable tasks within the two game-based interventions. They provide the technical foundation for the statistical analyses reported in the manuscript and allow independent verification of the proficiency-level classification.
+Together with the statistical notebooks and raw datasets, these files complete the competence-evaluation documentation of the study.
+
+---
 
 ## Reproducibility Statement
 
